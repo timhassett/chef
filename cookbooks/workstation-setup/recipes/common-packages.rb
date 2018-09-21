@@ -6,7 +6,6 @@
 
 
 package 'git'
-package 'docker'
 package 'screen'
 package 'ruby'
 package 'epel-release'

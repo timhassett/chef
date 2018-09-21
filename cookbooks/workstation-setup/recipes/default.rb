@@ -6,3 +6,4 @@
 
 include_recipe 'workstation-setup::common-packages'
 include_recipe 'workstation-setup::common-applications'
+include_recipe 'workstation-setup::install-docker'
